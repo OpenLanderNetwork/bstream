@@ -6,7 +6,21 @@ bstream is a backend service for The Open Lander Network which handles trading t
 
 bstream is a backend service for The Open Lander Network which handles trading transactions
 
-Copyright (C) 2023-2024 Masscollabs Services
+Copyright (C) 2024-2025 QB Networks
+
+Copyright (C) 2017-2025 Masscollabs Services
+
+Copyright (C) 2017-2025 Procyberian and contributors
+
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
 Copyright (C) 2023-2024 Open Lander Network and contributors
 
